@@ -5,6 +5,9 @@
 .red {
     background-color:red
 }
+.green {
+    background-color: green;
+}
 .circle{
         border-radius:50%;
         width:500px;
